@@ -1,3 +1,5 @@
+package day1;
+
 public class Q102 {
     public static void main(String[] args) {
         int num1=12;

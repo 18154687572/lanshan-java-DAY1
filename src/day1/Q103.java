@@ -1,3 +1,5 @@
+package day1;
+
 public class Q103 {
     public static void main (String[] args) {
 

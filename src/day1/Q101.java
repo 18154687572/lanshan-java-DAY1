@@ -1,3 +1,5 @@
+package day1;
+
 public class Q101 {
     public static void main(String[] args) {
         int sum=0;

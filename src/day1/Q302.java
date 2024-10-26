@@ -1,3 +1,5 @@
+package day1;
+
 public class Q302 {
     public static void main(String[] args) {
         int[][] arr;
